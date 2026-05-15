@@ -1,6 +1,6 @@
 EDITED 2026-05-15
 
-
+---
 Fixed issue with party logic broken after selfcast was implemented, both work together now
 ----
 
